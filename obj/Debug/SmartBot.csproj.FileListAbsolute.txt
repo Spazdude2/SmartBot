@@ -1,0 +1,7 @@
+C:\Users\Andrew Spaziani\Desktop\SmartBot\SmartBot\bin\Debug\SmartBot.exe.config
+C:\Users\Andrew Spaziani\Desktop\SmartBot\SmartBot\bin\Debug\SmartBot.exe
+C:\Users\Andrew Spaziani\Desktop\SmartBot\SmartBot\bin\Debug\SmartBot.pdb
+C:\Users\Andrew Spaziani\Desktop\SmartBot\SmartBot\obj\Debug\SmartBot.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Spaziani\Desktop\SmartBot\SmartBot\obj\Debug\SmartBot.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Spaziani\Desktop\SmartBot\SmartBot\obj\Debug\SmartBot.exe
+C:\Users\Andrew Spaziani\Desktop\SmartBot\SmartBot\obj\Debug\SmartBot.pdb
